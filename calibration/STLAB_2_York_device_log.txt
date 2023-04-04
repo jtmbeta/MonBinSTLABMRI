@@ -1,0 +1,41 @@
+{'calibration': '/home/bbsrc/Desktop/Experiments/MonBin/calibration/spds/STLAB_1_oo_irrad_spectra.csv',
+ 'calibration_date': '30/10/2022',
+ 'calibration_units': '$\\mu$W/cm$^2$/nm',
+ 'calibration_wavelengths': [380, 781, 1],
+ 'json_name': 'STLAB_1_York',
+ 'name': 'STLAB_1 (binocular, left eye)',
+ 'notes': 'STLAB_1 is used in the psychology department at the University of '
+          'York to stimulate the left eye in a binocular stimulation setup for '
+          'the BakerWadeBBSRC project. For this setup, light is transported '
+          'from STLAB via liquid light guides and diffused by discs of white '
+          'diffuser glass, which are fused into a single image courtesy of a '
+          'VR headset. Measurements taken through the VR goggles with an '
+          'OceanOptics JAZ spectrometer using a UV-VIS fiber optic cable '
+          'fitted with an opal glass cosine corrector. Absolute irradiance '
+          'calibration is with reference to a spectral measurement of a lamp '
+          'with known power output (HL-2000_CAL) immediately prior to '
+          'obtaining the data. For this calibration, a ND filter was included '
+          'inthe optical path.',
+ 'observer': 'CIE_standard_observer',
+ 'primary_colors': ['blueviolet',
+                    'royalblue',
+                    'darkblue',
+                    'blue',
+                    'cyan',
+                    'green',
+                    'lime',
+                    'orange',
+                    'red',
+                    'darkred'],
+ 'primary_resolutions': [4095,
+                         4095,
+                         4095,
+                         4095,
+                         4095,
+                         4095,
+                         4095,
+                         4095,
+                         4095,
+                         4095]}
+
+>> Time created: 2023-03-20 18:51:01.007775
